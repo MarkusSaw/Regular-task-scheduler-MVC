@@ -31,7 +31,7 @@
 
 1. Клонируйте репозиторий:
 
-   git clone https://github.com/MarkusSaw/Regular-task-scheduler.git
+   git clone https://github.com/MarkusSaw/Regular-task-scheduler-MVC.git
 
 2. Откройте проект в вашей IDE как Maven проект.
 
